@@ -1,0 +1,11 @@
+.friendList{}
+.item{
+    display: flex;
+    align-items: center;
+}
+.status{
+    width: 10px;
+    height: 10px;
+}
+.avatar{}
+.name{}

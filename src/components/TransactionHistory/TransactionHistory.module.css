@@ -1,0 +1,9 @@
+.transactionHistory{}
+tr{
+    display: flex;
+}
+th, td{
+    padding: 10px;
+    width: 90px;
+    border: 1px solid black;
+}

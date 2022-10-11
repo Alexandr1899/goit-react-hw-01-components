@@ -1,0 +1,19 @@
+
+.profile{}
+.description{}
+.avatar{
+    width: 80px;
+    height: auto;
+}
+.name{}
+.tag{}
+.location{}
+.stats{
+    display: flex;
+}
+.items{
+    margin-right: 15px;
+    
+}
+.label{}
+.quantity{}
